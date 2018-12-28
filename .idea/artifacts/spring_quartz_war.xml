@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring_quartz:war">
+    <output-path>$PROJECT_DIR$/spring_quartz/target</output-path>
+    <root id="archive" name="spring_quartz-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring_quartz:war exploded" />
+    </root>
+  </artifact>
+</component>
